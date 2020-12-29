@@ -4,7 +4,7 @@
 This simple Hangman game asks the user to guess a mystery word before running out of tries. The user can select the difficulty of the game in the menu
 and the word would be randomly selected from an array of words. The user guesses I letter at a time.
 
-## Sample Run
+## Sample Output
 ```bash
 Select a difficulty
 1.Easy (press 1)
